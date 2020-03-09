@@ -1238,7 +1238,8 @@ a:hover, a:focus {
 }
 
 .iptstCount {
-    font-size: 36px;
+    font-size: 15px;
+    padding-bottom: 10px;
     margin-top: 0;
 }
 
